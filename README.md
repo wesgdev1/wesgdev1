@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Software development
+- 📫 How to reach me: wesgdev1@gmail.com
 
 <!--
 **wesgdev1/wesgdev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Software development
+- 🌱 Full stack software developer
 - 📫 How to reach me: wesgdev1@gmail.com
 
 <!--
